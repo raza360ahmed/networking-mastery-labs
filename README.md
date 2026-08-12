@@ -1,8 +1,8 @@
 # Networking & Cybersecurity Home Lab
 
-A complete, hands-on 30-lab progression through networking and cybersecurity fundamentals, built and documented end to end in a self-hosted GNS3 environment. This repository is a record of practical work, not a tutorial follow-along: every configuration, attack, and detection in it was built, broken, debugged, and re-verified in a real lab rather than copied from a guide.
+A complete, hands-on 30-lab progression through networking and cybersecurity fundamentals, built and documented end-to-end in a self-hosted GNS3 environment. This repository is a record of practical work, not a tutorial follow-along: every configuration, attack, and detection in it was built, broken, debugged, and re-verified in a real lab rather than copied from a guide.
 
-**Status:** Roadmap complete (30/30 labs, Levels 1-5) plus a synthesis document tying the full build together. See [`MASTER-MODE.md`](./MASTER-MODE.md) for the closing architecture review and answers to the three capstone questions the roadmap was built around.
+**Status:** Roadmap complete (30/30 labs, Levels 1-5) plus a synthesis document tying the full build together. See MasterMode-README.md for the closing architecture review and answers to the three capstone questions the roadmap was built around.
 
 ## Objective
 
@@ -79,6 +79,6 @@ This repository does not present a clean, first-attempt version of events. Sever
 
 ## Author
 
-Ahmed Raza — Final-year BS Digital Forensics & Cyber Security, Riphah International University, Hamdard Campus, Islamabad. Built as hands-on preparation toward CompTIA Security+ and SOC analyst / penetration testing roles.
+Ahmed Raza — Final-year BS Digital Forensics & Cyber Security, Hamdard University Islamabad. Built as hands-on preparation toward CompTIA Security+ and SOC analyst/penetration testing roles.
 
 GitHub: [`raza360ahmed`](https://github.com/raza360ahmed)
